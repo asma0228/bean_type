@@ -11,3 +11,6 @@ Feature engineering techniques
 Model building
 Finding the best fit
 Post processing and analysis
+
+
+![2022-04-30 (1)](https://user-images.githubusercontent.com/101552534/166106250-f9f35f63-f754-4fdb-b2fa-34c8c53cbbe9.png)
