@@ -13,4 +13,6 @@ Finding the best fit
 Post processing and analysis
 
 
-![2022-04-30 (1)](https://user-images.githubusercontent.com/101552534/166106250-f9f35f63-f754-4fdb-b2fa-34c8c53cbbe9.png)
+
+![ML_app1](https://user-images.githubusercontent.com/101552534/166106467-997b435c-38ac-4bb9-8cd0-e486420fab2a.png)
+![ML_app2](https://user-images.githubusercontent.com/101552534/166106476-52c7e4fc-053c-4fce-b566-e0deb1bd335c.png)
